@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View
 {
     @State private var name = ""
-    @State private var textTitle = "What is your name?"
+    @State private var textTitle = "what is your name?"
     
     var body: some View
     {
